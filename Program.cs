@@ -13,6 +13,4 @@ if (num1>num2)
    Console.WriteLine("Максимальное число: num1="+num1);
 }    
 else
-{
     Console.WriteLine("Максимальное число: - num2="+num2); 
-}
